@@ -12,7 +12,7 @@ config_version=5
 
 config/name="scouting app 4810"
 run/main_scene="res://scenes/opening_screen.tscn"
-config/features=PackedStringArray("4.3", "Mobile")
+config/features=PackedStringArray("4.4", "Mobile")
 config/icon="res://resources/icon.svg"
 
 [display]
