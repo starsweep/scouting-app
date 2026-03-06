@@ -2,5 +2,5 @@
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 
 fn main() {
-    scouting_app_4810_lib::run()
+    scouting_app_lib::run()
 }

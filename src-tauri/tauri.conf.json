@@ -1,8 +1,8 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "scouting-app-4810",
+  "productName": "scouting-app",
   "version": "0.1.0",
-  "identifier": "com.scouting-app-4810.app",
+  "identifier": "com.scouting-app.app",
   "build": {
     "frontendDist": "../src"
   },
@@ -10,7 +10,7 @@
     "withGlobalTauri": true,
     "windows": [
       {
-        "title": "scouting-app-4810",
+        "title": "scouting-app",
         "width": 800,
         "height": 600
       }
