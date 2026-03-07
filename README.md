@@ -1,6 +1,7 @@
 # Tauri + Vanilla
 
 pnpm tauri dev
+
 pnpm tauri android build
 
 ## Recommended IDE Setup
