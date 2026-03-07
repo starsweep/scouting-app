@@ -1,6 +1,6 @@
 [package]
 name = "scouting-app"
-version = "0.1.0"
+version = "2026.1.0"
 description = "FRC Team 4810 Scouting App"
 authors = ["Andrew Martin"]
 edition = "2021"
